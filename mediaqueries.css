@@ -1,0 +1,378 @@
+@media only screen and (max-width: 1024px) {
+    .h-container{
+        padding: 20rem 0rem;
+    }
+    
+    .tagline{
+        font-size: 1.6rem;
+    }
+
+    .r-grid1 p{
+        font-size: 1.6rem;
+    }
+
+    .left{
+        margin-left: 2.2rem;
+    }
+
+    .btn-warning{
+        font-size: 1.8rem;
+    }
+
+}
+
+@media only screen and (max-width: 820px) {
+    .h-container{
+        padding: 20rem 0rem;
+    }
+    
+    .c-container .row{
+        height: 40vh;
+    }
+
+    .testimonial{
+        height: 50vh;
+    }
+
+    .c-container .row{
+        height: 85vh;
+    }
+
+    .col-sm-12 p{
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .card-title{
+        padding-top: 3.2rem;
+        padding-bottom: 3rem;
+    }
+   
+    .h-container{
+        padding: 30rem 0rem;
+    }
+    
+    .col-sm-6 p{
+        font-size: 1.7rem;
+    }
+    .col-sm-6 aside{
+        font-size: 1.5rem;
+    }
+
+    .group{
+        display: grid;
+        grid-template-columns: repeat(2, 55rem);
+        justify-content: center;
+        row-gap: 3rem;
+    }
+
+    #selfi{
+        grid-template-columns: 120rem;
+    }
+
+    #selfi .right{
+        margin-left: 12rem;
+    }
+
+    .left p,.left aside,.left button{
+        width: 100rem;
+    }
+
+    .left p{
+        font-size: 2.2rem;
+    }
+
+    .left aside{
+        font-size: 2rem;
+    }
+
+    .left{
+        margin-left: 12rem;
+        margin-bottom: 4rem;
+    }
+
+    .p-group{
+        display: grid;
+        grid-template-columns: repeat(2, 55rem);
+        justify-content: center;
+        row-gap: 3rem;
+    }
+
+    .pro-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin-left: 8rem;
+        gap: 1rem;
+    }
+
+    .testimonial{
+        height: 75vh;
+    }
+
+    .carousel-item h3{
+        font-size: 4rem;
+    }
+
+    .carousel-item p em{
+        font-size: 2.8rem;
+        
+    }
+
+    .carousel p strong{
+        font-size: 3rem;
+    }
+
+    .t-group{
+        display: grid;
+        grid-template-columns: repeat(2, 55rem);
+        justify-content: center;
+        row-gap: 3rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .h-container{
+        padding: 60rem 0rem;
+    }
+    
+    .tagline{
+        font-size: 2.8rem;
+    }
+
+    .p-text p{
+        font-size: 2.8rem;
+    }
+
+    .left p{
+        font-size: 2.8rem;
+    }
+
+    .left aside{
+        font-size: 2.6rem;
+    }
+
+    .btn-self{
+        padding: 2rem 4rem;
+        font-size: 2rem;
+    }
+
+    .pro-links{
+        font-size: 2.2rem;
+    }
+
+    .c-container .row{
+        height: 50vh;
+    }
+
+    .col-sm-12 h1{
+        font-size: 5.4rem;
+    }
+    
+    .col-sm-12 p{
+        font-size: 2.2rem;
+    }
+
+    .btn-chat{
+        padding: 2rem 5rem;
+        font-size: 1.8rem;
+    }
+
+    .testimonial{
+        height: 70vh;
+    }
+
+    .carousel-item h3{
+        font-size: 4rem;
+    }
+
+    .carousel-item p em{
+        font-size: 2.8rem;
+        
+    }
+
+    .carousel p strong{
+        font-size: 3rem;
+    }
+
+}
+
+@media only screen and (max-width: 575px) {
+    .h-container{
+        padding: 40rem 0rem;
+    }
+    
+    #posts h1{
+
+        font-size: 6rem;
+    }
+
+    .group{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .card-title{
+        font-size: 3.6rem;
+        padding-top: 8rem;
+    }
+
+    .card-text{
+        font-size: 2.6rem;
+    }
+
+    .left p{
+        font-size: 2.6rem;
+    }
+
+    .left aside{
+        font-size: 2.4rem;
+    }
+
+    .pro-links{
+        font-size: 2.8rem;
+    }
+
+    .p-group{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .c-container .row{
+        height: 70vh;
+        margin-top: 3rem;
+    }
+
+    .col-sm-12 h1{
+        font-size: 5.4rem;
+    }
+
+    .col-sm-12 p{
+        font-size: 2.4rem;
+    }
+
+    .btn-chat{
+        font-size: 2.4rem;
+    }
+
+    .t-group{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .r-grid h1{
+        font-size: 6rem;
+    }
+
+    .r-grid1 h3{
+        font-size: 4.6rem;
+    }
+
+    .r-grid1 p{
+        font-size: 2.2rem;
+    }
+
+    .rating{
+        padding: 10rem 0rem;
+    }
+
+    .testimonial{
+        height: 70vh;
+    }
+
+    .carousel-item p{
+        font-size: 3rem;
+    }
+
+    .card-body p{
+        font-size: 3rem;
+    }
+
+
+}
+
+@media only screen and (max-width: 400px) {
+    .left p{
+        font-size: 3rem;
+    }
+
+    .left aside{
+        font-size: 2.8rem;
+    }
+
+    .pro-links{
+        font-size: 3rem;
+        margin-left: 2rem;
+    }
+
+    .content p{
+        width: 100rem;
+    }
+
+    .col-sm-12 h1{
+        font-size: 6.8rem;
+    }
+
+    .col-sm-12 p{
+        font-size: 3rem;
+        letter-spacing: .3rem;
+    }
+
+    .rating{
+        padding: 30rem 0rem;
+    }
+
+    .r-flex{
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12rem;
+    }
+
+    .r-grid{
+        grid-template-columns: repeat(2, 15rem);
+    }
+
+    .r-grid h1{
+        font-size: 8rem;
+    }
+
+    .r-grid1 h3{
+        font-size: 6rem;
+    }
+
+    .r-grid1 p{
+        font-size: 3rem;
+    }
+
+    .c-heading{
+        font-size: 6rem;
+    }
+
+    .team h1{
+
+    }
+
+    #posts h1, .left h1, .col-sm-12 h1, .r-grid h1, .team h1, .test-container h1, .n-container h1{
+        font-size: 8rem;
+    }
+
+    .card-body p{
+        font-size: 3.8rem;
+    }
+
+    .carousel-item h3{
+        font-size: 5.4rem;
+    }
+
+    .carousel-item p em{
+        font-size: 3.6rem;
+        
+    }
+
+    .carousel p strong{
+        font-size: 4rem;
+    }
+}
